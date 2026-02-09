@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="max-w-[1024px] mx-auto px-4">
         <div className="border-b border-[#d2d2d7] pb-4 mb-4">
           More ways to: Visit an <a href="#" className="text-[#0070c9] hover:underline">Apple Store</a>,
-          <span className="whitespace-nowrap"> call <span className="text-[#1d1d1f]">1-888-449-8105</span></span>, or <a href="#" className="text-[#0070c9] hover:underline">find a reseller</a>.
+          <span className="whitespace-nowrap"> call <span className="text-[#1d1d1f]">1-18888587485</span></span>, or <a href="#" className="text-[#0070c9] hover:underline">find a reseller</a>.
         </div>
 
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center pt-2">

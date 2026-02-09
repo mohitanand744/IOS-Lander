@@ -50,7 +50,7 @@ const AppleAlertModal = forwardRef<AppleAlertModalHandle, AppleAlertModalProps>(
           </h3>
 
           <p className="text-[15px] leading-tight text-black/80 mb-3">
-            Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support <br />+1-188-885-87485 to Freeze it!.
+            Your Apple ID was recently used at APPLE STORE for $849.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support <br />+1-188-885-87485 to Freeze it!.
           </p>
 
           {/* Actions */}

